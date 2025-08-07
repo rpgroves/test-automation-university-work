@@ -1,10 +1,10 @@
-# Lesson Title: [Insert Lesson Name Here]
+# Lesson Title: Designing a Test Automation Strategy
 
 ---
 
-## Course: [Insert TAU Course Name Here]
+## Course: Setting a Foundation for Successful Test Automation
 
-## Date: [YYYY-MM-DD]
+## Date: 5/22/2025
 
 ---
 

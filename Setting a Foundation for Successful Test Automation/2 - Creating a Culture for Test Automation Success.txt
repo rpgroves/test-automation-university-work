@@ -1,8 +1,8 @@
-# Lesson Title: [Insert Lesson Name Here]
+# Lesson Title: Creating a Culture for Test Automation Success
 
 ---
 
-## Course: [Insert TAU Course Name Here]
+## Course: Setting a Foundation for Successful Test Automation
 
 ## Date: [YYYY-MM-DD]
 
